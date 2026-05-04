@@ -64,4 +64,11 @@ Sobre mí
 · Available for any job oportunity
 <br/>
 </div>
-
+<br/>
+<br/>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RanHC30/RanHC30/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RanHC30/RanHC30/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RanHC30/RanHC30/output/pacman-contribution-graph.svg">
+</picture>
