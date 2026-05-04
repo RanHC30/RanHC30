@@ -1,9 +1,15 @@
-<h3 align="left">Hey 👋 Randy Here!</h3>
+<h3 align="left"> <strong>Hey 👋 Randy Here! </strong> </h3>
 
 ###
 
+<p align="left">  <strong> <em>Frontend · Backend · UI Enthusiast </strong> </em> </p>
+
+<p align="left">  <strong> Actualmente estudiante de informática, mejorando mis habilidades e intentando nuevas tecnologías cada día </strong> <br> 
+  
+  //<strong> Currently an student of informatics, leveling up my skills and trying new techs every day </strong>  </p>
+
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/736x/58/c6/91/58c691494590c6345a21c69de02344b2.jpg"  />
+  <img width="1500" height="700" style="border-radius: 12px  ; "src="https://i.pinimg.com/736x/58/c6/91/58c691494590c6345a21c69de02344b2.jpg"  />
 </div>
 
 ###
@@ -31,6 +37,31 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="instagram logo"  />
 </div>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RanHC30&theme=dark&hide_border=true&border_radius=5&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RanHC30&theme=dark&hide_border=true&border_radius=5&card_width=1500&card_height=500" alt="GitHub Streak" /></a>
 
 ###
+
+<div align="center">
+Sobre mí
+<br/>
+· Enfocado en construir interfaces de usuario limpias y funcionales
+· Aprendiendo constantemente y buscando nuevos retos
+· Interesado en colaborar en proyectos
+· Disponible para oportunidades laborales
+<br/>
+</div>
+
+<br/>
+<br/>
+<br/>
+
+<div align="center">
+· About me
+<br/>
+· Focused on build clean and functional UI
+· Constantly learning and looking for new challenges
+· Interested into colaborating on proyects
+· Available for any job oportunity
+<br/>
+</div>
+
